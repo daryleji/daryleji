@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daryleji
-- 👀 I’m interested in programming in C# and Python at the moment
-- 🌱 I’m currently learning to type in Dvorak for increasing accuracy and type speed. My immediate learning objective is tkinter in python for my first private python project.
+- 👀 I have experience developing in Java and Angular
+- 🌱 Currently learning about Docker and Kubernetes
 - 📫 You can reach me at daryleji.t@gmail.com
 
 <!---
